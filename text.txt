@@ -1,1 +1,16 @@
 Im gonna write something random.
+
+
+git init
+------------
+Will initialize the git repository for the remote repo
+
+
+git commit
+-------------
+Will stage the changes made in our local system and push to local repo
+
+git push
+-------------
+Will push the changes from local repo to remote repo
+
